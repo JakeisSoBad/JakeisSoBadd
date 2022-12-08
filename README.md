@@ -1,4 +1,4 @@
-<p>Hello, My names nano (Alies)<br> i'm the creator of (XAttacker 3.0, Vulnnr, FIVE) Massive pentesting project's<br>@psauxx is my old github account before it got banned what held these repo's</p>
+<p>Hello, this is nano<br> i'm the creator of (XAttacker 3.0, Vulnnr, FIVE) Massive pentesting project's<br>@psauxx is my old github account before it got banned </p>
 https://web.archive.org/web/20210822152948/https://github.com/psauxx <br>
 
 ```php
@@ -6,14 +6,14 @@ class __Construct {
     private static function __Contructor(){
         // define user vars, then call Header's function
         private $username = "Nano";
-        public $langs = "PHP,PY,PERL";
+        public $langs = "php, go, python";
         private $years = "6+ pentesting";
-        private $oldusernames = "N.., psauxx, DarkRabbit, Nanosec";
-        private $website = "https://iauth.cc/"
+        private $discord = "N..#5540";
+        private $website = "https://fbi.gov/"
         
         echo "Username: $this->username\nOld alies: this->oldusernames;\nYears: $this->years;\nLangs: $this->langs;";
         $this->Headers(true); 
-    }
+    } what held these repo's
     public static function Headers($status){
       if($status) {
         // define XSS protection helps with cross origin policy
