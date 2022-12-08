@@ -13,7 +13,7 @@ class __Construct {
         
         echo "Username: $this->username\nOld alies: this->oldusernames;\nYears: $this->years;\nLangs: $this->langs;";
         $this->Headers(true); 
-    } what held these repo's
+    }
     public static function Headers($status){
       if($status) {
         // define XSS protection helps with cross origin policy
