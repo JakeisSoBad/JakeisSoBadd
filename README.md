@@ -6,7 +6,7 @@
 
 ```py
   Name : N..
-  Skillset : Python, Go, Php, Node
+  Skillset : Python, Go, Php, Node, Skript, Java
   Discord  : 873425208869015594
   Hobbies  : [
    Application Development,   Utility Development,
