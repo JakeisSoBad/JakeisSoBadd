@@ -6,7 +6,7 @@
 
 ```py
   Name : N..
-  Skillset : Python, Go, Php, Node, Skript, Java
+  Skillset : Python, Go, Php, Node, Skript, Java, C++
   Discord  : 873425208869015594
   Hobbies  : [
    Application Development,   Utility Development,
@@ -14,7 +14,7 @@
    Web(Exploitation, Crawling, ExploitFrameworks)
   ],
   Projects : [ 
-    disguild, iauth, fedsearch
+    runesoftware, iauth, fedsearch
   ]
   
 ```
