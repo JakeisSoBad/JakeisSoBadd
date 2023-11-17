@@ -2,19 +2,17 @@
 >> neofetch
 ```
 
-<img align="left" src="https://cdn.discordapp.com/attachments/1056054502593155165/1056816590198419489/matching_icons_.jpg" width="189"/>
+<img align="left" src="https://cdn.discordapp.com/attachments/1134286013120913428/1174927283421724672/image.png?ex=65695f4d&is=6556ea4d&hm=b0f26755a79dafb79fc97f0b12417f484b4a27678e353cc4bef6dcb3711e610a&" width="189"/>
 
 ```py
-  Name : N..
-  Skillset : Python, Go, Php, Node, Skript, Java, C++
-  Discord  : 873425208869015594
+  Name : JakeIsSoBad Aka Lauscript
+  Skillset : Lua
+  Discord  : 971020727396479026
   Hobbies  : [
-   Application Development,   Utility Development,
-   Command-Line Applications,
-   Web(Exploitation, Crawling, ExploitFrameworks)
+   Play Roblox(Make Script)
   ],
   Projects : [ 
-    runesoftware, iauth, fedsearch
+    Fause Hub , Hung Hub , Yaku Hub , Wave Hub , Rimus Hub, Zylua Hub (beta) , Alchemy Hub
   ]
   
 ```
